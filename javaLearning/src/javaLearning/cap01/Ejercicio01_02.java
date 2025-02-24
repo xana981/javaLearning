@@ -2,7 +2,6 @@
  * estas dos frases: “La vida es tan buena maestra,” y 
  * “que si no aprendes la lección te la repite.”.
  */
-package javaLearning.cap01;
 
 public class Ejercicio01_02 {
 	
