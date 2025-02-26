@@ -1,5 +1,5 @@
-public class Ejemplo01_01 {
+public class Ejercicio6 {
     public static void main(String[] args) {
-		System.out.println("hola mundo");
+		System.out.println("Estoy aprendiendo a programar en Java");
     }
 }
